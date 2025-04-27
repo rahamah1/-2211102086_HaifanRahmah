@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(124, 241, 117); /*backgouncd jadi lightgray*/
+}
+h1 {
+  color: blue; /*warna tulisan jadi biru*/
+}
+p {
+  font-size: 18px; /*Ukuran font*/
+  font-family: Arial, sans-serif; /*Jenis font*/
+  text-align: center; /*Pengaturan teks menjadi tengahh*/
+}
